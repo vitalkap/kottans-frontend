@@ -13,3 +13,14 @@
 <image src="/task_linux_cli/2.png" alt="Картинка № 2">
 <image src="/task_linux_cli/3.png" alt="Картинка № 3">
 <image src="/task_linux_cli/4.png" alt="Картинка № 4">
+
+## Git Collaboration
+
+1. Було важкувато розібратися.
+
+2. Гнучкість гіта.
+
+3. Буду вдосконалювати вміння гітом.
+
+<image src="/task_git_collaboration/1.jpeg" alt="Картинка № 1">
+<image src="/task_git_collaboration/2.jpeg" alt="Картинка № 2">
