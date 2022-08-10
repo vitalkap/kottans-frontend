@@ -24,3 +24,16 @@
 
 <image src="/task_git_collaboration/1.jpeg" alt="Картинка № 1">
 <image src="/task_git_collaboration/2.jpeg" alt="Картинка № 2">
+
+## Intro to HTML and CSS
+
+1. Основи я вже знав. Новим був bootstrap.
+
+2. Сподобалась простота вікористання html та css.
+
+3. Хочу більше дізнатися про bootstrap.
+
+<image src="/task_html_css_intro/1.png" alt="Картинка № 1">
+<image src="/task_html_css_intro/2.png" alt="Картинка № 2">
+<image src="/task_html_css_intro/3.png" alt="Картинка № 3">
+<image src="/task_html_css_intro/4.png" alt="Картинка № 4">
